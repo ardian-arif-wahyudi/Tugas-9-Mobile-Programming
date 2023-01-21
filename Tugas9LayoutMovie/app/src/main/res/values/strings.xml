@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Tugas 9 Layout Movie</string>
+    <string name="app_title_movie">Now Playing Movie</string>
+    <string name="app_title_tvshow">Tv Show Airing Today</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_highlight">Image Highlight</string>
+    <string name="lb_description">Description</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="tab_title_movie">MOVIE</string>
+    <string name="tab_title_tvshow">TV SHOW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite">Favorite</string>
+    <string name="empty_state_title_no_favorite_item">No favorites yet</string>
+    <string name="empty_state_desc_no_favorite_item_movie">You don\'t have a list of favorite movies</string>
+    <string name="empty_state_desc_no_favorite_item_tvshow">You don\'t have a list of favorite tv show</string>
+    <string name="app_title">MOVIE CATALOG</string>
+    <string name="default_desc">No story description</string>
+    <string name="menu_az">A - Z</string>
+    <string name="menu_za">Z - A</string>
+    <string name="menu_random">Random</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">Ardian Arif Wahyudi\n32602000069</string>
+
+
+    <!--  Movies Name  -->
+
+    <string name="movie_name">"Ayat Ayat Cinta"</string>
+    <string name="movie_name2">"Dancing In The Rain"</string>
+    <string name="movie_name3">"Keluarga Cemara"</string>
+    <string name="movie_name4">"Wedding Agreement"</string>
+    <string name="movie_name5">"Terlalu Tampan"</string>
+    <string name="movie_name6">"The Guys"</string>
+
+
+    <!--  Movies Detail  -->
+
+    <string name="movie_detail"> Ayat-Ayat Cinta adalah sebuah film Indonesia karya Hanung Bramantyo yang dibintangi oleh Fedi Nuril, Rianti Cartwright, Carissa Putri, Zaskia Adya Mecca, dan Melanie Putria. Film ini merupakan film religi hasil adaptasi dari sebuah novel best seller karya Habiburrahman El Shirazy berjudul Ayat Ayat Cinta, dan tayang perdana pada 28 Februari 2008. Walaupun kisah dalam film dan novel Ayat-Ayat Cinta berlatarkan kehidupan di Kairo, Mesir, tetapi proses pengambilan gambar tidak dilakukan di kota itu</string>
+    <string name="movie_detail2">Dancing in the Rain merupakan film keluarga Indonesia yang dirilis pada tahun 2018 yang disutradarai oleh Rudi Aryanto. Film ini dibintangi oleh Dimas Anggara, Bunga Zainal, dan Deva Mahenra</string>
+    <string name="movie_detail3">Keluarga Cemara adalah film drama keluarga Indonesia yang merupakan adaptasi dari cerita bersambung yang dimuat di majalah Hai dan kemudian menjadi novel berseri karya Arswendo Atmowiloto dan sinetron berjudul sama</string>
+    <string name="movie_detail4">Wedding Agreement (bahasa Indonesia: Perjanjian Pernikahan) adalah sebuah film drama Indonesia tahun 2019 yang disutradarai oleh Archie Hekagery, dan diangkat berdasarkan novel yang berjudul sama karya Eria Chuzaimiah alias Mia Chuz, yang terlebih dahulu populer di Wattpad.</string>
+    <string name="movie_detail5">Terlalu Tampan (bahasa Inggris: Too Handsome to Handle) adalah film Indonesia bergenre drama komedi keluarga yang diadaptasi dari sebuah webtoon dengan judul yang sama.[1] Film ini tayang perdana di bioskop pada 31 Januari 2019</string>
+    <string name="movie_detail6">The Guys adalah film drama komedi Indonesia tahun 2017 yang diproduksi Soraya Intercine Films dan disutradarai oleh Raditya Dika. film ini merupakan kedua kalinya Raditya bekerjasama dengan Soraya setelah sebelumnya sukses lewat Single pada tahun 2015. Film ini dirilis pada 13 April 2017, dan dibintangi oleh Raditya Dika, Pevita Pearce, Widyawati, Tarzan, Marthino Lio, Indra Jegel dan aktor asal Thailand Pongsiri Bunluewong alias Pukhai</string>
+    <!--  TV Shows Name  -->
+
+    <string name="tvshow_name">"Anak Jalanan"</string>
+    <string name="tvshow_name2">"Ikatan Cinta"</string>
+    <string name="tvshow_name3">"Tukang Bubur Naik Haji"</string>
+    <string name="tvshow_name4">"ToNight Show"</string>
+    <string name="tvshow_name5">"Laptop Si Unyil"</string>
+    <string name="tvshow_name6">"Jejak Si Gundul"</string>
+
+
+    <string name="tvshow_detail">"Anak Jalanan adalah sinetron Indonesia produksi SinemArt yang ditayangkan perdana 12 Oktober 2015 pukul 18.30 WIB di RCTI. Sinetron ini disutradarai oleh Akbar Bhakti dan dibintangi oleh Natasha Wilona, Ammar Zoni, dan Cut Meyriska. "</string>
+    <string name="tvshow_detail2">"Ikatan Cinta adalah sinetron Indonesia produksi MNC Pictures yang ditayangkan perdana 19 Oktober 2020 pukul 19.30 WIB di RCTI.[1] Sinetron ini disutradarai oleh Doddy Djanas dan dibintangi oleh Amanda Manopo, Glenca Chysara, dan Arya Saloka.[2] "</string>
+    <string name="tvshow_detail3">"Tukang Bubur Naik Haji the Series adalah sinetron Indonesia produksi SinemArt yang ditayangkan perdana 28 Mei 2012 di RCTI dan merupakan sinetron Indonesia terpanjang ketiga berdasarkan jumlah episode. Sinetron ini disutradarai oleh H Ucik Supra dan dibintangi oleh Mat Solar, Uci Bing Slamet, dan Nani Wijaya. "</string>
+    <string name="tvshow_detail4">"Tonight Show adalah sebuah program gelar wicara malam yang memberi informasi dan hiburan bersama empat host kocak, Deddy Mahendra Desta, Vincent Rompies, Hesti Purwadinata dan Enzy Storia. Tonight Show menghadirkan bintang tamu dari berbagai kalangan dan kejutan yang sayang untuk dilewatkan."</string>
+    <string name="tvshow_detail5">"Laptop Si Unyil adalah sebuah program anak-anak yang tayang pertama kali di Trans7 mulai tanggal 19 Maret 2007 setiap hari Senin sampai Jumat pukul 12.00 WIB, dan kemudian dilanjutkan dengan Buku Harian Si Unyil Yang ditayangkan setiap hari Sabtu dan Minggu pada saat itu"</string>
+    <string name="tvshow_detail6">"Jejak Si Gundul adalah sebuah program majalah televisi Indonesia yang mengekspose kearifan lokal lewat karakter kuat si Gundul yang serba bisa, suka menolong, memasak, dan tangguh yang ditayangkan Trans7 sejak tahun 2007"</string>
+</resources>
